@@ -34,7 +34,8 @@ del lista_esporte[1]
 print(lista_esporte)
 
 #E)
-lista_geral.append("[matematica , Portugues]")
+lista_disciplina = []
+lista_geral.append(["Matematica" , "Portugues"])
 print(lista_geral)
 
 
